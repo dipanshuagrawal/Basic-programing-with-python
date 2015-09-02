@@ -1,0 +1,16 @@
+Installing Python:
+
+
+
+1] Visit Site https://www.python.org/downloads/
+2] Download the latest version of Python depending on your OS and processor.
+3] Once setup file get downloaded, double click on it and give it the permission to run.
+4] Select whether to install Python for all users of this computer.
+5] select Destination Directory.
+6] Customize Python:
+	Here change last option to (Will be installed on local drive).
+
+
+
+
+Well Done!! Your Python is installed successdully.......
