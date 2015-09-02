@@ -1,0 +1,27 @@
+Hello World in Python:
+
+//This tutorial is for Windows user-------
+
+1] Run Python (Command line) application.
+
+  	1) Popup window shows Python version you are using, command like "help", "copyright" etc and three greater than 		symbol(>>>) with cursor blink is the interactive programing mode in python.
+
+  	2) Type your first peice code after >>>
+			print ("Hello World")
+
+  	3) If your code is interpreted and executed it will show out as "Hello world" without double quotes and If your 		code got errors you would get trace back error.
+
+  	4) Type exit() to end.
+
+
+2]Run Microsoft Command prompt program:
+	  1) In the last tutorial when we installed python, there was an option where we were asked whether we want to 				include path to the python interpreter in the environment variable path and we check that option so the 		path has been set.To invoke the interpreter all we have to do is type python and press enter.
+ 
+	  2) Popup window shows Python version you are using, command like "help", "copyright" etc and three greater than 		symbol(>>>) with cursor blink is the interactive programing mode in python.
+
+  	3) Type your first peice code after >>>
+			print ("Hello World")
+
+	  4) If your code is interpreted and executed it will show out as "Hello world" without double quotes and If your 		code got errors you would get trace back error.
+
+	  5) Type exit() to return to command prompt.
