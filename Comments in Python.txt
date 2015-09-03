@@ -1,0 +1,8 @@
+Comments in Python:
+
+To include a comment in script file in Python, you have to start your each new comment line with the # symbol.
+This is different from other programming langauge where you can add some symbol and extend your comment to as much 
+line as you want.
+
+#This is my comment line.
+#This is my another comment line.
