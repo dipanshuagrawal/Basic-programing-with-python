@@ -14,7 +14,7 @@ strVar[3]
 tuple("We are dealing with python programming")
 
 #To convert string value to list.
-list["We are dealing with python programming"]
+list("We are dealing with python programming")
 
 #To convert ASCII value to character
 chr(65)
